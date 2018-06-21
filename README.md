@@ -9,7 +9,7 @@ Sri Lanka National Identity Card Validation ( Jquery )
 
 <h6 style="color:yellow;">You should have Bootstrap & jquery </h6>
 
-<h4>clases</h4>
+<h4>classes</h4>
 
 <h6>.nic-validate        -----> This class used for nic input</h6>
 <h6>.nic-validate-btn    -----> This class used for validate nic</h6>
