@@ -7,7 +7,7 @@ Sri Lanka National Identity Card Validation ( Jquery )
 
 <h5>You can use This library for    NEW  &  Old  Both Sri Lanka NIC's</h5>
 
-<h6>6 style="color:yellow;">You should have Bootstrap & jquery </h6>
+<h6 style="color:yellow;">You should have Bootstrap & jquery </h6>
 
 <h4>clases</h4>
 
@@ -21,4 +21,4 @@ Sri Lanka National Identity Card Validation ( Jquery )
 
 <h2>And More things will be soon..... Thank You</h2>
 <h5>Please give Ideas.</h5> 
-<h6>Sri Lanka NIC Validation</h6>
+<h6>Sri Lanka NIC Validationr</h6>
