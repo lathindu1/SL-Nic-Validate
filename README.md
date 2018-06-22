@@ -1,6 +1,8 @@
 # SL-Nic-Validate
 Sri Lanka National Identity Card Validation ( Jquery )
 
+<h6 style="color:teal">Online Demo: <a href="https://lathindu1.github.io/SL-Nic-Validate/">https://lathindu1.github.io/SL-Nic-Validate/</a></h6>
+
 #demo
 
 ![Alt text](dist/img/demo-1.png?raw=true "Title")
