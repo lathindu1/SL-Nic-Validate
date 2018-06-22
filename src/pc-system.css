@@ -1,3 +1,7 @@
 .nic-card {
-    margin-top: 200px;
+    margin-top: 50px;
+}
+
+body {
+    background: linear-gradient(to right, #009688, #FF9800);
 }
