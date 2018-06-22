@@ -34,11 +34,11 @@ $('.nic-validate-btn').click(function() {
         var bday = day + '-' + month + '-' + year;
         var birthday = new Date(bday.replace(/(\d{2})-(\d{2})-(\d{4})/, "$2/$1/$3"));
         var birthday = getFormattedDate(birthday);
-        $('.nic-birthday').html('your BirthDay:' + birthday);
-        $('.nic-gender').html('your Gender:' + gender);
+        $('.nic-birthday').html('BirthDay:' + birthday);
+        $('.nic-gender').html('Gender:' + gender);
 
     } else {
-        $('.nic-validate-error').html('You Entered Nic Number Is wrong');
+        $('.nic-validate-error').html('You Entered NIC Number Is wrong');
     }
 });
 
